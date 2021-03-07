@@ -4,7 +4,7 @@ public class AlunosMediaNotas {
 
 	public static void main(String[] args) {
 		
-		int quantAlunos = 3;
+		int quantAlunos = 50;
 		
 		int contador, quantNotasBaixas, quantNotasAltas;
 		double nota, media;
